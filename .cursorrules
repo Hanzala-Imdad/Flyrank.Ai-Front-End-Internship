@@ -1,0 +1,55 @@
+# Project Instructions
+
+## Project
+
+FlyRank.AI Front-End Internship
+
+This repository contains assignments and development work completed during the FlyRank.AI Front-End Engineering internship.
+
+## Repository Structure
+
+* `Assignment FE-01/` — Environment and AI Toolchain
+* `Assignment FE-02/` — Future assignment
+* `Assignment FE-03/` — Future assignment
+* `README.md` — Repository overview
+* `LICENSE` — MIT License
+* `.gitignore` — Ignored files and folders
+
+## General Rules
+
+* Keep assignment work organized in the appropriate assignment folder.
+* Make only the changes required for the current task.
+* Do not modify unrelated files.
+* Keep code and documentation clear and maintainable.
+* Do not add dependencies unless they are required.
+* Review changes before committing.
+* Use consistent naming and formatting.
+* Use Conventional Commits for Git commits.
+
+## Git Commit Format
+
+Use:
+
+`<type>: <description>`
+
+Examples:
+
+* `feat: add ...`
+* `fix: resolve ...`
+* `docs: update ...`
+* `chore: configure ...`
+* `refactor: improve ...`
+
+## AI Assistant Rules
+
+* Inspect relevant files before making changes.
+* Do not make unrelated changes.
+* Preserve existing project structure and intent.
+* Keep changes minimal and focused.
+* Review the final diff before completing a task.
+
+## Current Assignment
+
+FE-01 — Environment and AI Toolchain
+
+Do not assume a specific frontend framework, language, library, or architecture unless it is explicitly specified by the assignment or already present in the project.
