@@ -53,3 +53,12 @@ Examples:
 FE-01 — Environment and AI Toolchain
 
 Do not assume a specific frontend framework, language, library, or architecture unless it is explicitly specified by the assignment or already present in the project.
+
+## Form Rules (learned from FE-05)
+
+- Forms always use react-hook-form + zod for validation, 
+  never uncontrolled inputs or raw useState
+- Every input must have a matching htmlFor on its label 
+  and an id on the input — no exceptions
+- Validation errors display inline below the field in red, 
+  never as alert() or console.log
